@@ -1,0 +1,22 @@
+{
+  "name": "custom-jquery",
+  "version": "1.0.0",
+  "description": "Custom jquery with additional features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brijkishor-kumar/custom-jquery-npm-package.git"
+  },
+  "keywords": [
+    "CJQ"
+  ],
+  "author": "BRIJKISHOR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brijkishor-kumar/custom-jquery-npm-package/issues"
+  },
+  "homepage": "https://github.com/brijkishor-kumar/custom-jquery-npm-package#readme"
+}
