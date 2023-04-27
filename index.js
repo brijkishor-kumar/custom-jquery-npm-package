@@ -9,7 +9,6 @@ function $(selector) {
             self.element.addEventListener(event, callback);
         }
     };
-    console.log("hey Wlecome!!!");
     return self;
 };
 
