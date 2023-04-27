@@ -1,5 +1,5 @@
 {
-  "name": "custom-jquery",
+  "name": "@kbrij/custom-jquery",
   "version": "1.0.1",
   "description": "Custom jquery with additional features.",
   "main": "index.js",
